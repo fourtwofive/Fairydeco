@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=&fontSize=90" style="width: 100%;"/>
 
 # <center><img src="/img/logoonlybook.png"  width="90"  height="75" /></center> 동꾸 (동화 꾸미기) 
 ### 동꾸(동화 꾸미기)는 아이가 직접 만들어가는 AI 동화 창작 서비스입니다.
@@ -134,3 +135,6 @@
 ![image](/img/변화과정3.png)
 
 => **아이들도 간편하고 쉽게 사용할 수 있도록 하나의 과정으로 통합**
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=&fontSize=90" style="width: 100%;"/>
