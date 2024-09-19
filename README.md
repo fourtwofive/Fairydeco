@@ -11,12 +11,6 @@
 |개발기간|2024-04-08 ~ 2024-05-20 (6주)|
 |---|---|
 
-### 팀원 소개
-|이건희|박지원|김연화|이진규|김선혁|최영진|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|<img src="/img/이건희.png" width="80" height="100">|<img src="/img/박지원.png" width="85" height="100">|<img src="/img/김연화.png" width="85" height="100">|<img src="/img/이진규.png" width="85" height="100">|<img src="/img/김선혁.png" width="85" height="100">|<img src="/img/최영진.png" width="85" height="100">|
-|팀장, Infra, AI|Frontend|Frontend|Backend, AI|Backend, AI|Backend, Frontend|
-
 ### 기획 배경
 |어린이들의 유투브 과도한 시청|
 |:---:|
